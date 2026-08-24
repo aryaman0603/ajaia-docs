@@ -1,0 +1,3 @@
+[
+  "tests/test_documents.py::test_create_and_get_document"
+]
