@@ -10,11 +10,11 @@ The application supports document creation, rich-text editing, persistence, and 
 
 ## Live Demo
 
-**Live Application:** `ADD_LIVE_FRONTEND_URL`
+**Live Application:** `https://ajaia-docs-h1fo.vercel.app/`
 
-**Backend API:** `ADD_LIVE_BACKEND_URL`
+**Backend API:** [`ADD_LIVE_BACKEND_URL](https://ajaia-docs-1-z5c9.onrender.com/health)`
 
-**API Documentation:** `ADD_LIVE_BACKEND_URL/docs`
+**API Documentation:** `[ADD_LIVE_BACKEND_URL/docs](https://ajaia-docs-1-z5c9.onrender.com/docs)`
 
 ---
 
